@@ -18,9 +18,11 @@ The Pima population has been under study by the National Institute of Diabetes a
 
 :bell: In case of any problem to visualise the project, please check [here](shorturl.at/hHLT4)
 
-⭐: PS: Please do not forget to drop a star if you like it!
+📕 Dataset source: [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/)
 
-##REFERENCES
+⭐ PS: Please do not forget to drop a star if you like it!
+
+## REFERENCES
 
 1. TYNECKI P. Predict diabetes diagnosis for Pima Female Indians with Logistic Regression. 2018. Available on: https://www.kaggle.com/ptynecki/pima-indians-diabetes-prediction-with-lr-84.
 2. SCHULZ LO, CHAUDHARI LS. High-Risk Populations: The Pimas of Arizona and Mexico Curr Obes Rep. 2015 Mar 1; 4(1): 92–98. Available on: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4418458/
@@ -37,5 +39,3 @@ The Pima population has been under study by the National Institute of Diabetes a
 13. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4287763/
 14. https://www.sciencedirect.com/science/article/pii/S1646343913000734
 15. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3417105/
-
-
