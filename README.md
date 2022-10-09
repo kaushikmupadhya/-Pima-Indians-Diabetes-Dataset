@@ -20,7 +20,7 @@ The Pima population has been under study by the National Institute of Diabetes a
 
 📕 Dataset source: [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/)
 
-⭐ PS: Please do not forget to drop a star if you like it!
+⭐ PS: Please do not forget to drop a star on this repo, if you like it!
 
 ## REFERENCES
 
